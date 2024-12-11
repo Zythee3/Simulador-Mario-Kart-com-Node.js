@@ -77,8 +77,13 @@
 <p></p>
 
 <h3>🕹️ Regras & mecânicas:</h3>
-<label>Para dar incio ao jogo, basta usar o comando a baixo no terminal:</label>
-<b>Jogadores:</b>
+<label>Para dar incio ao jogo, basta ter o Node.js instalado e usar o comando a baixo no terminal:<br><br></label>
+
+```md
+ node src/index.js
+``` 
+
+<b>Jogadores:<br></b>
 
 <input type="checkbox" id="jogadores-item" />
 <label for="jogadores-item">O Computador deve receber dois personagens para disputar a corrida em um objeto cada, caso deseje alterar o personagem, basta alterar o nome e o os atributos da constante player1 ou player2 localizados no arquivo index.js</label>
