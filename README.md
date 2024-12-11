@@ -81,7 +81,7 @@
 <b>Jogadores:</b>
 
 <input type="checkbox" id="jogadores-item" />
-<label for="jogadores-item">O Computador deve receber dois personagens para disputar a corrida em um objeto cada</label>
+<label for="jogadores-item">O Computador deve receber dois personagens para disputar a corrida em um objeto cada, caso deseje alterar o personagem, basta alterar o nome e o os atributos da constante player1 ou player2 localizados no arquivo index.js</label>
 
 <b>Pistas:</b>
 
