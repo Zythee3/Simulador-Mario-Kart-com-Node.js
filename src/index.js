@@ -112,7 +112,7 @@ async function playRaceEngine(player1, player2) {
 
         else if (totalSkillResult1 == totalSkillResult2){
 
-            console.log("\n🚩Empate, nenhum dos jogadores recebeu ou perdeu pontos!");
+            console.log("\n🚩 Empate, nenhum dos jogadores recebeu ou perdeu pontos!");
 
         }
 
