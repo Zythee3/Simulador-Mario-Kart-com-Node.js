@@ -77,7 +77,7 @@
 <p></p>
 
 <h3>🕹️ Regras & mecânicas:</h3>
-
+<label>Para dar incio ao jogo, basta usar o comando a baixo no terminal:</label>
 <b>Jogadores:</b>
 
 <input type="checkbox" id="jogadores-item" />
